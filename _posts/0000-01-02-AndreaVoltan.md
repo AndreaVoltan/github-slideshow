@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Is today a great day?
+## Still not working? Come on!
 Use the left arrow to go back!
